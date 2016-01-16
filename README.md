@@ -1,5 +1,5 @@
 # ARRAY-SUBSET
-#include<stdio.h>
+include<stdio.h>
 bool isSubset(int a1[], int a2[], int m, int n)
 {
     int i = 0;
